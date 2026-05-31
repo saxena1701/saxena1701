@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Computer Science Grad Student at NC State! (Expected May 2025)<br> 💼 Previous Software Engineer Intern at Gap Inc. (May 2022 - July 2022)<br>🤝 Skilled in Full-Stack Development, looking for opportunities to collaborate.<br>💻 Tech Skills - Node, Flask, React, Redux, MongoDB, Redis, PostgreSQL, SQL, Spring Boot, Kafka, Docker, Git<br>🌱 Currently learning the core components of AWS required for deploying, monitoring, and scaling of web applications.<br>📈 Familiar with Machine Learning/Neural Networks, worked on multiple data mining projects, familiar with Python libraries scikit-learn, TensorFlow<br>
+💼Software Engineer II at Vertex Inc.<br>
+🎓 Computer Science Alum from NC State! (Expected May 2025)<br> 💼 Previous Software Engineer Intern at Gap Inc. (May 2022 - July 2022)<br>🤝 Skilled in Full-Stack Development, looking for opportunities to collaborate.<br>💻 Tech Skills - Node, Flask, React, Redux, MongoDB, Redis, PostgreSQL, SQL, Spring Boot, Kafka, Docker, Git<br>🌱 Currently learning the core components of AWS required for deploying, monitoring, and scaling of web applications.<br>📈 Familiar with Machine Learning/Neural Networks, worked on multiple data mining projects, familiar with Python libraries scikit-learn, TensorFlow<br>
 
 
 ## 🌐 Socials:
